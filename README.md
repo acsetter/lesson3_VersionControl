@@ -1,26 +1,22 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Project Name:  Lesson 3 Version Control
 
 
-Hi there! Welcome to Cloud9 IDE!
+## Course Title:
+Web Application Development
 
-To get you started, we included a small hello world application.
+## Assignment Date:  
+June 4, 2018
 
-1) Open the hello-world.html file
+## Student Name:  
+Aaron Csetter
 
-2) Click on the Preview button to open a live preview pane
+## Project Description:
+This assignment demonstrates version/ source control and shows my understanding of key concepts from the lesson.
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+## View Project:
+https://acsetter.github.io/lesson3_VersionControl/
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Lessons Learned in the Assignment:
+1. Version Control allows team members to work on a project simultaneously without overwriting each other.
+2. A repository like Git gives every user a complete copy of repository data to store locally on a machine.
+3. There is no point of failure in a GIT repository since users can't overwrite each other. 
